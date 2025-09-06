@@ -1,4 +1,4 @@
-# Business Management System API
+# Inventory and Billing Management System API
 
 ## Overview
 This is a Node.js/Express REST API for a business management system that handles authentication, client management, product management, transaction management, and transaction reporting. It is built to provide a robust backend for managing business operations efficiently.
